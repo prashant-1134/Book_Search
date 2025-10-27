@@ -26,7 +26,7 @@ Includes debounced search, shimmer loading skeleton, and graceful fallback when 
 ---
 
 ## 📂 Folder Structure
-
+```
 book-finder/
 │── src/
 │ ├── assets/
@@ -47,7 +47,7 @@ book-finder/
 ├── postcss.config.cjs
 └── README.md
 
-
+```
 ---
 
 ## 💻 Installation & Setup
