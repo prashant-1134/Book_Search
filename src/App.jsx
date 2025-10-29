@@ -45,7 +45,7 @@ function App() {
       {!loading && !query.trim() && (
         <div className="flex flex-col items-center justify-center mt-10 opacity-60">
           <img
-            src="src/assets/searchBook.png"
+            src="searchBook.png"
             alt="Search books"
             className="w-40 mb-4"
           />
